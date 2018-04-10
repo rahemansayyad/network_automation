@@ -1,0 +1,45 @@
+show inventory
+show version
+show int description | inc up
+show int description | inc admin down
+show int description
+show int description | exc down
+show ip int brief | i Up
+show ip int brief
+show cdp neighbor
+show cdp neighbor detail
+show ip route summary
+sh interface
+show ip ospf neighbor
+show ip ospf int br
+show ip ospf database router self-originate | inc Metric
+show bgp all all summary
+show bgp ipv4 unicast summary
+show bgp vrf all  ipv4 unicast summary
+sh bgp vrf all ipv6 unicast summary
+sh bgp vrf all ipv6 unicast summary 
+show arp
+show mac address-table
+show mpls ldp nei
+show hsrp brief
+show glbp brief
+Show proc cpu
+show ipv4 vrf all interface brief
+show bfd ipv6 session
+show bfd ipv4 session
+show run
+show interfaces description | ex up | ex admin-down
+show interfaces description | in 324
+show interfaces description | in ORC
+show arp
+show mac address-table
+show mpls ldp nei
+show hsrp brief
+show glbp brief
+Show proc cpu
+show ipv4 vrf all interface brief
+show bfd ipv6 session
+show bfd ipv4 session
+show run
+show interfaces description | ex up | ex admin-down
+show interfaces description | ex up | ex admin-down
